@@ -1,3 +1,10 @@
+元がアーカイブされたので、削除されては困るので、forkしました（平井）
+https://combzinc.slack.com/archives/C017KBSLFCL/p1598606091056000
+forkしたこのリポジトリを使うようにするのが安全です
+
+
+
+
 # GraphAware Neo4j PHP Client
 
 ## An Enterprise Grade Client for Neo4j
